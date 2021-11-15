@@ -1,0 +1,43 @@
+/*fonts*/
+/*
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+
+/*common start*/
+ body{
+    margin: 0;
+    padding: 0;
+ 	font-family: 'Playfair Display', serif ;
+ 	font-size: 16px;
+ 	font-weight: 400;
+ 	color: #626262 ;
+ }
+
+/*common end*/
+
+/*header start*/
+ header{}
+.wrapper{
+   overflow: hidden;
+   margin: 0 auto;
+   width: 90%;
+   border: 1px solid black;
+}
+.logo{
+width: 15%;
+float: left;
+}
+.logo a{}
+.logo img{}
+.menu{
+width: 60%;
+float: right;
+}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{}
+.menu ul li :last-child a {}
+.menu ul li a:hover{}
+
+/*header end*/
